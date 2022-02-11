@@ -12,6 +12,7 @@ The overall purpose was geared toward understanding whether it is worthwhile for
 <img width="461" alt="Screen Shot 2022-02-10 at 11 56 24 PM" src="https://user-images.githubusercontent.com/91562577/153539679-26e9304e-0d42-400a-bbbe-160cc68d5bef.png">
 A sample of paid reviews shows a range of star ratings, with the majority receiving 4 stars or better:
 <img width="979" alt="Screen Shot 2022-02-10 at 11 58 23 PM" src="https://user-images.githubusercontent.com/91562577/153539841-f548564b-4d4a-47dd-abc5-6b41e995f560.png">
+
 * 46% of unpaid reviews had 5 stars, which is lower than the rate for paid reviews, though not substantially so.
 <img width="507" alt="Screen Shot 2022-02-11 at 12 02 26 AM" src="https://user-images.githubusercontent.com/91562577/153540121-91297b4c-3971-45ca-ad1d-fa41e0f994a3.png">
 A sample of unpaid reviews also shows a range of star ratings, though in this sample 3 of the 10 received only 1 star:
